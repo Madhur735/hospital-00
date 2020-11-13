@@ -1,0 +1,134 @@
+h1 {
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+ul {
+  list-style: none;
+  color: #777;
+  padding: 0;
+  line-height: 2rem;
+}
+
+p {
+  font-size: 1.2rem;
+}
+
+h2 {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+li {
+  font-size: 1.1rem;
+}
+
+
+/* navbar */
+.navbar {
+  padding: 0 0 10rem;
+}
+
+
+.navbar-brand {
+  font-size: 6rem;
+
+}
+
+.nav-item {
+  padding: 0 18px;
+  font-family: 'Lobster Two', cursive;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+}
+
+/* HEADING0 */
+
+
+.heading {
+  margin: 50px 0;
+  font-size: 3.5rem;
+}
+
+
+/* INFO */
+
+.staff-info {
+  margin-left: 150px;
+  margin-bottom: 50px;
+
+}
+
+.heading {
+  margin-bottom: 100px;
+  font-size: 3.4rem;
+}
+.hori {
+  margin-bottom: 100px;
+}
+
+.hori {
+  border: dotted #777 8px;
+  border-top: none;
+  width: 15%;
+  margin: 100px auto 100px auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* footer */
+
+.footer-links {
+  color: #007bff;
+}
+
+.lower-container {
+  background-color: #343a40;
+  color: white;
+  margin-top: 50px;
+  padding: 7% 10%;
+}
+
+.hhe {
+  text-align: left;
+  margin-bottom: 2.3rem;
+  font-family: 'Pragati Narrow', sans-serif;
+  font-weight: bolder;
+}
+
+.text-j1 {
+  margin-top: 20px;
+}
+
+.social-link {
+  line-height: 1.5rem;
+}
+
+.para {
+  margin: 50px;
+  text-align: center;
+}
